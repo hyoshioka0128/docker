@@ -483,7 +483,7 @@ Currently supported options of `zfs`:
 
 ## Docker runtime execution options
 
-The Docker daemon relies on a
+The Docker daemon relies on an 
 [OCI](https://github.com/opencontainers/specs) compliant runtime
 (invoked via the `containerd` daemon) as its interface to the Linux
 kernel `namespaces`, `cgroups`, and `SELinux`.
